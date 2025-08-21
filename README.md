@@ -4,7 +4,7 @@
 💻 Fullført bachelor i IT (OsloMet) med fokus på sikkerhet, nettverk og systemutvikling  
 🌱 Interessert i fullstack utvikling, distribuerte systemer og moderne verktøy
 
-Jeg er en nysgjerrig og løsningsorientert som liker å lage brukervennlige løsninger.
+🧠Jeg er en nysgjerrig og løsningsorientert som liker å lage brukervennlige løsninger.
 
 ⚽️Fotballbakgrunnen min har lært meg å sette pris på samarbeid, disiplin og det å levere når det gjelder.
 
@@ -23,14 +23,14 @@ Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Osl
 ## 💡Mine prosjekter
 ISA DeepData Platform
 
-Fullstack-løsning for International Seabed Authority (ISA), håndterer data om havbunnen
-Teknologi: ASP.NET Core (backend) og React/Next.js (frontend)
-Har kartvisning, dataanalyse og støtte for flere språk
-[Repo](https://github.com/Kacpers03/Bachelor)
+- Fullstack-løsning for International Seabed Authority (ISA), håndterer data om havbunnen
+- Teknologi: ASP.NET Core (backend) og React/Next.js (frontend)
+- Har kartvisning, dataanalyse og støtte for flere språk
+- [Repo](https://github.com/Kacpers03/Bachelor)
 
 ## 📫Kontakt meg 
-[LinkdIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
-kacperserafin6@gmail.com
+- [LinkdIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
+- kacperserafin6@gmail.com
 
 
 
