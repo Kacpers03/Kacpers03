@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hei, jeg er Kacper Serafin
+
+##🎓 Masterstudent i Programmering og systemarkitektur (UiO)  
+💻 Fullført bachelor i IT (OsloMet) med fokus på sikkerhet, nettverk og systemutvikling  
+🌱 Interessert i fullstack utvikling, distribuerte systemer og moderne verktøy
+
+Jeg er en nysgjerrig og løsningsorientert som liker å lage brukervennlige løsninger.
+⚽️Fotballbakgrunnen min har lært meg å sette pris på samarbeid, disiplin og det å levere når det gjelder.
+
+## Om Meg
 
 <!--
 **Kacpers03/Kacpers03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
