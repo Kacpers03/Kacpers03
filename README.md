@@ -9,7 +9,7 @@
 ⚽️Fotballbakgrunnen min har lært meg å sette pris på samarbeid, disiplin og det å levere når det gjelder.
 
 ## ✨ Om Meg
-Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Oslo, med en bachelor i IT fra OsloMet. Jeg har erfaring innen programvareutvikling, testing, sikkerhet og nettverk, og er spesielt interessert i distribuerte systemer og systempålitelighet. Jeg liker å kombinere teoretisk kunnskap med praktiske prosjekter, og er motivert for å lære mer om skalerbare og sikre løsninger i moderne IT-systemer. Trives med å jobbe sammen med andre for å nå felles mål og jeg følger med på nye teknologier og metoder for å bli en bedre utvikler
+Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Oslo, med en bachelor i IT fra OsloMet. Jeg har erfaring innen programvareutvikling, testing, sikkerhet og nettverk, og er også interessert i distribuerte systemer og systempålitelighet. Jeg liker å kombinere teoretisk kunnskap med praktiske prosjekter, og er motivert for å lære mer om skalerbare og sikre løsninger i moderne IT-systemer. Trives med å jobbe sammen med andre for å nå felles mål og jeg følger med på nye teknologier og metoder for å bli en bedre utvikler
 
 ## 🚀Nøkkelkompetanse 
 - Webutvikling: HTML, CSS, React, Next.js, Spring Boot, ASP.NET Core
@@ -30,7 +30,8 @@ ISA DeepData Platform
 
 ## 📫Kontakt meg 
 - [LinkdIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
-- kacperserafin6@gmail.com
+- [Send meg en e-post](mailto:kacperserafin6@gmail.com)
+
 
 
 
