@@ -29,7 +29,7 @@ ISA DeepData Platform
 - [Repo](https://github.com/Kacpers03/Bachelor)
 
 ## 📫Kontakt meg 
-- [LinkdIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
+- [LinkedIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
 - [kacperserafin6@gmail.com](mailto:kacperserafin6@gmail.com)
 
 
