@@ -13,8 +13,11 @@ Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Osl
 
 ## 🚀Nøkkelkompetanse 
 -Webutvikling: HTML, CSS, React, Next.js, Spring Boot, ASP.NET Core
+
 -Databaser: SQL, NoSQL
+
 -Verktøy: Git, GitHub, UML
+
 -Metoder: CI/CD, Entity Framework, Agile metodikk, DevOps, Kanban og scrum
 
 ## 💡Mine prosjekter
