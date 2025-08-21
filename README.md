@@ -17,8 +17,7 @@ Databaser: SQL, NoSQL
 Verktøy: Git, GitHub, UML
 Metoder: CI/CD, Entity Framework, Agile metodikk, DevOps, Kanban og scrum
 
-
-##💡Mine prosjekter
+## Mine prosjekter
 ISA DeepData Platform
 
 Fullstack-løsning for International Seabed Authority (ISA), håndterer data om havbunnen
