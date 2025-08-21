@@ -30,7 +30,7 @@ ISA DeepData Platform
 
 ## 📫Kontakt meg 
 - [LinkdIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
-- [Send meg en e-post](mailto:kacperserafin6@gmail.com)
+- [kacperserafin6@gmail.com](mailto:kacperserafin6@gmail.com)
 
 
 
