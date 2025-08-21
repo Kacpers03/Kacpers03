@@ -1,7 +1,9 @@
 ## 👋 Hei, jeg er Kacper Serafin
 
 🎓 Masterstudent i Programmering og systemarkitektur (UiO)  
+
 💻 Fullført bachelor i IT (OsloMet) med fokus på sikkerhet, nettverk og systemutvikling  
+
 🌱 Interessert i fullstack utvikling, distribuerte systemer og moderne verktøy
 
 🧠Jeg er en nysgjerrig og løsningsorientert som liker å lage brukervennlige løsninger.
