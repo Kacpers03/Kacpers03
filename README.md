@@ -26,6 +26,15 @@ Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Osl
 - Funksjonalitet: kartvisning, dataanalyse og støtte for flere språk.
 - [Github-repo](https://github.com/Kacpers03/ISADeepData)
 
+
+**GalleryNote Prosjekt** 
+- Sosialt nettverk utviklet med ASP.NET MVC og Entity Framework
+- Separat REST-API laget i ASP.NET Core
+- Støtter brukergenerert innhold og basic responsivt design
+- [Github-repo](https://github.com/Kacpers03/GalleryNoteProsjekt)
+
+
+
 ## 📫Kontakt meg 
 - [LinkedIn](https://www.linkedin.com/in/kacper-serafin-73b44b319/)
 - [kacperserafin6@gmail.com](mailto:kacperserafin6@gmail.com)
