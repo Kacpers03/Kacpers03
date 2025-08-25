@@ -14,6 +14,7 @@
 Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Oslo, med en bachelor i IT fra OsloMet. Jeg har erfaring innen programvareutvikling, testing, sikkerhet og nettverk, og er også interessert i distribuerte systemer og systempålitelighet. Jeg liker å kombinere teoretisk kunnskap med praktiske prosjekter, og er motivert for å lære mer om skalerbare og sikre løsninger i moderne IT-systemer. Trives med å jobbe sammen med andre for å nå felles mål og jeg følger med på nye teknologier og metoder for å bli en bedre utvikler
 
 ## 🚀Nøkkelkompetanse 
+
 - **Webutvikling:** HTML, CSS, React, Next.js, Spring Boot, ASP.NET Core  
 - **Databaser:** SQL, NoSQL  
 - **Verktøy:** Git, GitHub, UML  
@@ -29,7 +30,7 @@ Jeg er masterstudent i Programmering og systemarkitektur ved Universitetet i Osl
 
 **GalleryNote Prosjekt** 
 - Sosialt nettverk utviklet med ASP.NET MVC og Entity Framework
-- Separat REST-API laget i ASP.NET Core
+- Laget med ASP.NET og MVC
 - Støtter brukergenerert innhold og basic responsivt design
 - [Github-repo](https://github.com/Kacpers03/GalleryNoteProsjekt)
 
